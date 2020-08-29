@@ -1,6 +1,7 @@
 1. persiapan makan
 - bakso
 - sate
+- indomie
 2. persiapan minum
 3. coding
 4. design 

@@ -2,7 +2,6 @@
 - bakso
 - sate
 - indomie
-2. persiapan minum
 3. coding
 4. design 
 - photo shop
@@ -11,3 +10,4 @@
 - story board
 - take1
 6. lain-lain
+8. Super Final
